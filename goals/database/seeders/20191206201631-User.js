@@ -7,18 +7,21 @@ module.exports = {
       {
         name: 'Jane Doe',
         email: 'janedoe@example.com',
+        city: 'Boston',
         createdAt: new Date(),
         updatedAt: new Date(),
       },
       {
         name: 'Jon Doe',
         email: 'jondoe@example.com',
+        city: 'Chicago',
         createdAt: new Date(),
         updatedAt: new Date(),
       },
       {
         name: 'Frank Sinatra',
         email: 'frank@abc.com',
+        city: 'NYC',
         createdAt: new Date(),
         updatedAt: new Date(),
       }
